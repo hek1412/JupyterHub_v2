@@ -1,0 +1,4 @@
+# Базовые библиотеки
+transformers
+sentence_transformers
+
